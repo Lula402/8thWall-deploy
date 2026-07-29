@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 136,
+    "left": 29,
+    "width": 522,
+    "height": 696,
+    "isRotated": true,
+    "originalWidth": 580,
+    "originalHeight": 969
+  },
+  "imagePath": "image-targets/TT_luminance.png",
+  "metadata": null,
+  "name": "TT",
+  "resources": {
+    "originalImage": "TT_original.png",
+    "croppedImage": "TT_cropped.png",
+    "thumbnailImage": "TT_thumbnail.png",
+    "luminanceImage": "TT_luminance.png"
+  },
+  "created": 1785332549359,
+  "updated": 1785332565514
+}
