@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 350,
+    "left": 262,
+    "width": 676,
+    "height": 901,
+    "isRotated": false,
+    "originalWidth": 1200,
+    "originalHeight": 1600
+  },
+  "imagePath": "image-targets/bf39fc90-4842-4559-8f16-cdbbf4b6382b_luminance.jpg",
+  "metadata": null,
+  "name": "bf39fc90-4842-4559-8f16-cdbbf4b6382b",
+  "resources": {
+    "originalImage": "bf39fc90-4842-4559-8f16-cdbbf4b6382b_original.jpg",
+    "croppedImage": "bf39fc90-4842-4559-8f16-cdbbf4b6382b_cropped.jpg",
+    "thumbnailImage": "bf39fc90-4842-4559-8f16-cdbbf4b6382b_thumbnail.jpg",
+    "luminanceImage": "bf39fc90-4842-4559-8f16-cdbbf4b6382b_luminance.jpg"
+  },
+  "created": 1785766882663,
+  "updated": 1785766909783
+}
